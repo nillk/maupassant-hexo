@@ -275,7 +275,7 @@ div {
         font-size: 15px;
         line-height: 1.77;
         color: #444;
-        padding-top: 15px;
+        padding-top: 20px;
         text-align: justify;
         text-justify: distribute;
         word-break: break-all;
@@ -350,6 +350,7 @@ div {
         }
     }
     .tags {
+        padding-top: 1em;
         padding-bottom: 1em;
         a {
             margin-right: .5em;
